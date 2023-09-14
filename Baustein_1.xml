@@ -7,6 +7,9 @@
   <Section Name="Input" />
   <Section Name="Output">
     <Member Name="Input_1" Datatype="Bool" />
+    <Member Name="Input_2" Datatype="Int">
+      <StartValue>450</StartValue>
+    </Member>
   </Section>
   <Section Name="InOut" />
   <Section Name="Static" />
