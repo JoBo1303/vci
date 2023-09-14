@@ -12,6 +12,9 @@
     <Member Name="Output_1" Datatype="Int">
       <StartValue>1200</StartValue>
     </Member>
+    <Member Name="Output_2_1" Datatype="Int">
+      <StartValue>90</StartValue>
+    </Member>
     <Member Name="Output_2" Datatype="Bool">
       <StartValue>true</StartValue>
     </Member>
