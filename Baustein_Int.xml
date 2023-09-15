@@ -13,7 +13,11 @@
       <StartValue>1200</StartValue>
     </Member>
     <Member Name="Output_2_1" Datatype="Int">
+<<<<<<< HEAD
       <StartValue>190</StartValue>
+=======
+      <StartValue>90</StartValue>
+>>>>>>> c98b29a9d94b713cf27bc6cd14a2629e4d699294
     </Member>
     <Member Name="Output_2" Datatype="Bool">
       <StartValue>true</StartValue>
