@@ -8,7 +8,7 @@
   <Section Name="Output">
     <Member Name="Input_1" Datatype="Bool" />
     <Member Name="Input_2" Datatype="Int">
-      <StartValue>500</StartValue>
+      <StartValue>5150</StartValue>
     </Member>
     <Member Name="Input_3" Datatype="Int">
       <StartValue>200</StartValue>
