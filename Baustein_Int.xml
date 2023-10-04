@@ -10,10 +10,10 @@
   </Section>
   <Section Name="Output">
     <Member Name="Output_1" Datatype="Int">
-      <StartValue>120</StartValue>
+      <StartValue>1200</StartValue>
     </Member>
     <Member Name="Output_2_1" Datatype="Int">
-      <StartValue>130</StartValue>
+      <StartValue>1300</StartValue>
     </Member>
     <Member Name="Output_2" Datatype="Bool">
       <StartValue>true</StartValue>
