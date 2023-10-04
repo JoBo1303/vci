@@ -13,10 +13,10 @@
       <StartValue>1200</StartValue>
     </Member>
     <Member Name="Output_2_1" Datatype="Int">
-      <StartValue>1300</StartValue>
+      <StartValue>130</StartValue>
     </Member>
     <Member Name="Output_2" Datatype="Bool">
-      <StartValue>true</StartValue>
+      <StartValue>false</StartValue>
     </Member>
   </Section>
   <Section Name="InOut" />
