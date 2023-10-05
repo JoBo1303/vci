@@ -6,7 +6,9 @@
       <Interface><Sections xmlns="http://www.siemens.com/automation/Openness/SW/Interface/v5">
   <Section Name="Input" />
   <Section Name="Output">
-    <Member Name="Input_1" Datatype="Bool" />
+    <Member Name="Input_1" Datatype="Bool">
+      <StartValue>true</StartValue>
+    </Member>
     <Member Name="Input_2" Datatype="Int">
       <StartValue>200</StartValue>
     </Member>
