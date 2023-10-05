@@ -6,13 +6,13 @@
       <Interface><Sections xmlns="http://www.siemens.com/automation/Openness/SW/Interface/v5">
   <Section Name="Input">
     <Member Name="Test_1" Datatype="Int">
-      <StartValue>12</StartValue>
+      <StartValue>120</StartValue>
     </Member>
     <Member Name="Test_2" Datatype="Bool" />
   </Section>
   <Section Name="Output">
     <Member Name="Output_1" Datatype="Int">
-      <StartValue>120</StartValue>
+      <StartValue>1200</StartValue>
     </Member>
     <Member Name="Output_2_1" Datatype="Int">
       <StartValue>78</StartValue>
