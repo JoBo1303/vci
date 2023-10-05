@@ -10,10 +10,10 @@
       <StartValue>true</StartValue>
     </Member>
     <Member Name="Input_2" Datatype="Int">
-      <StartValue>201</StartValue>
+      <StartValue>2010</StartValue>
     </Member>
     <Member Name="Input_3" Datatype="Int">
-      <StartValue>210</StartValue>
+      <StartValue>2100</StartValue>
     </Member>
   </Section>
   <Section Name="InOut" />
