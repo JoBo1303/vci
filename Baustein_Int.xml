@@ -15,7 +15,7 @@
       <StartValue>1200</StartValue>
     </Member>
     <Member Name="Output_2_1" Datatype="Int">
-      <StartValue>7800</StartValue>
+      <StartValue>780</StartValue>
     </Member>
     <Member Name="Output_2" Datatype="Bool">
       <StartValue>true</StartValue>
