@@ -8,7 +8,9 @@
     <Member Name="Test_1" Datatype="Int">
       <StartValue>120</StartValue>
     </Member>
-    <Member Name="Test_2" Datatype="Bool" />
+    <Member Name="Test_2" Datatype="Bool">
+      <StartValue>true</StartValue>
+    </Member>
   </Section>
   <Section Name="Output">
     <Member Name="Output_1" Datatype="Int">
