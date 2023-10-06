@@ -7,10 +7,10 @@
   <Section Name="Input" />
   <Section Name="Output">
     <Member Name="Input_1" Datatype="Bool">
-      <StartValue>true</StartValue>
+      <StartValue>false</StartValue>
     </Member>
     <Member Name="Input_2" Datatype="Int">
-      <StartValue>201</StartValue>
+      <StartValue>2010</StartValue>
     </Member>
     <Member Name="Input_3" Datatype="Int">
       <StartValue>10</StartValue>
