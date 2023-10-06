@@ -14,7 +14,7 @@
   </Section>
   <Section Name="Output">
     <Member Name="Output_1" Datatype="Int">
-      <StartValue>1200</StartValue>
+      <StartValue>120</StartValue>
     </Member>
     <Member Name="Output_2_1" Datatype="Int">
       <StartValue>780</StartValue>
